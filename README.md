@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Elbaisss
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+0
+0
+0.5
+100
 
-<!---
-Elbaisss/Elbaisss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+-freq 140 -novid -tickrate 128 -allow_third_party_software
